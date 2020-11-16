@@ -17,5 +17,5 @@ Criando um front animado em para aplicação de atividades físicas
   - [Avatar Glow](https://pub.dev/packages/avatar_glow)
   - [Lottie](https://pub.dev/packages/lottie)
 
-<img src="D:\workspace\front_fitness\assets\images\Interface.png" alt="Interface" style="zoom:40%;" />
+<img src="https://github.com/AnGaIs/SeekingHealtly/blob/master/assets/images/Interface.png" alt="Interface" style="zoom:40%;" />
 
